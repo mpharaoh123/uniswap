@@ -1,0 +1,31 @@
+{
+    "name": "Sepolia Token List",
+    "timestamp": "2022-07-10T18:08:00.164591Z",
+    "keywords": [
+      "null"
+    ],
+    "logoURI": "ipfs://QmQAGtNJ2rSGpnP6dh6PPKNSmZL8RTZXmgFwgTdy5Nz5mx",
+    "version": {
+      "major": 5,
+      "minor": 0,
+      "patch": 0
+    },
+    "tokens": [
+      {
+        "chainId": 11155111,
+        "name": "PUPA",
+        "address": "0x4fB8c103F07839215D676b596F03313A3E3d4daE",
+        "decimals": 18,
+        "symbol": "PUP",
+        "logoURI": "https://explorer.waterfall.network/favicon-72-precomposed.png"
+      },
+      {
+        "chainId": 11155111,
+        "name": "STONKS",
+        "address": "0x882BeAD979Cc8Ac8088e91d2Cdf7486923ff99de",
+        "decimals": 18,
+        "symbol": "STONKS",
+        "logoURI": "https://explorer.waterfall.network/favicon-72-precomposed.png"
+      }
+    ]
+  }

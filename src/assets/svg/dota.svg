@@ -1,0 +1,11 @@
+<svg width="99.00000000000001" height="30" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="svg_7_blur">
+   <feGaussianBlur stdDeviation="0" in="SourceGraphic"/>
+  </filter>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <text stroke-width="0" filter="url(#svg_7_blur)" transform="matrix(1.28346 0 0 1.28346 -26.8103 -8.17774)" stroke="#ffffff" font-style="italic" font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Rasa'" font-size="15" id="svg_7" y="21.40876" x="20.89793" fill="#ffffff">dotaswap</text>
+ </g>
+</svg>
